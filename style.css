@@ -53,7 +53,7 @@ body{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url('To-Do_List/unchecked.png');
+    background-image: url('https://raw.githubusercontent.com/Karanpratap7/To-Do-List/main/To-Do_List/unchecked.png');
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -67,7 +67,7 @@ ul li.checked{
 }
 
 ul li.checked::before{
-  background-image: url('To-Do_List/checked.png');
+  background-image: url('https://raw.githubusercontent.com/Karanpratap7/To-Do-List/main/To-Do_List/checked.png');
 }
 
 ul li span{
